@@ -120,4 +120,21 @@ h4{
     right: 6px;
 }
 
-
+#code
+{
+    position:fixed;
+    margin-top: -300px;
+    margin-bottom: 0px;
+    margin-left: 700px;
+    margin-right: 100px; 
+}
+#nana
+{
+    color: white;
+    text-decoration:solid;
+    font-weight: bold;
+    text-transform: capitalize;
+    list-style-type: none;
+    display: inlineblock;
+    padding: 10px  100px;
+}
